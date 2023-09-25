@@ -4,6 +4,7 @@
 
 ### 3D Printing / CNC Machining
 - [defcad](https://defcad.com/)
+  - [gatgpt](https://gatgpt.defcad.com/)
 - [ghostgunner](https://ghostgunner.net/)
 - [pcbway](https://www.pcbway.com/rapid-prototyping/manufacture/)
 
