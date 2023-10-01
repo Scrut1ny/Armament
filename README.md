@@ -12,3 +12,4 @@
 
 ### Magazines / Ammo
 - [themagshack](https://themagshack.com/)
+- [crypto-armory](https://www.crypto-armory.com/)
