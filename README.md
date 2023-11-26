@@ -2,6 +2,7 @@
 - [gunlistings](https://www.gunlistings.org/)
 - [armslist](https://www.armslist.com/)
 - [firearmsunknown](https://www.firearmsunknown.com/)
+- [deltateamtactical](https://www.deltateamtactical.com/)
 
 ### 3D Printing / CNC Machining
 - [defcad](https://defcad.com/)
